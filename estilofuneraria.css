@@ -1,0 +1,15 @@
+h1, h2, h3{
+    color:red; text-align: left;
+}
+body{
+    background-color: aqua;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: 0.4rem 0;
+}
